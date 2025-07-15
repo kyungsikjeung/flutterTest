@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "16185439633",
+    "firebase_url": "https://test-5cef9.firebaseio.com",
+    "project_id": "test-5cef9",
+    "storage_bucket": "test-5cef9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16185439633:android:15d3a7b0560207d2d49630",
+        "android_client_info": {
+          "package_name": "com.kyungsikjeung.englishtutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16185439633-3pf3qqme187kd8u50ou3d0uq14veq98t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXxsIIqVEINmwbMJc7b3WgiZGBGuKBSU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16185439633-3pf3qqme187kd8u50ou3d0uq14veq98t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "16185439633-h6ab0812i44lvuq8m80918av87kn7her.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kyungsikjeung.englishtutor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
